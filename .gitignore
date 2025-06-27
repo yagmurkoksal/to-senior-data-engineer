@@ -1,3 +1,10 @@
+#large data
+cleaning_and_quality/adult_income/data
+cleaning_and_quality/e_commerce/data
+cleaning_and_quality/iot_sensor/data
+cleaning_and_quality/text_cleaning /data
+cleaning_and_quality/yellow_taxi_trip/data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
