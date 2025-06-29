@@ -15,3 +15,5 @@ Install requirements:
 ```
 pip install -r requirements.txt
 ```
+
+Please make sure that Python can be seen from the venv in the Pyspark installation, otherwise you may get an error.
