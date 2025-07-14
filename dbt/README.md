@@ -1,0 +1,1 @@
+To start learning DBT, I [completed a comprehensive course ](https://www.udemy.com/certificate/UC-df14a31a-cce8-4aaf-92f8-6b2f947110b0/) from Udemy. You can find notes about this in the learnings.md file.
